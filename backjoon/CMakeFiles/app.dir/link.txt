@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/app.dir/1012.cpp.o  -o app -rdynamic 
