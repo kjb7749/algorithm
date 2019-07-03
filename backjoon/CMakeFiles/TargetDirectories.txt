@@ -1,3 +1,0 @@
-/home/sonnet/Desktop/algorithm/backjoon/CMakeFiles/rebuild_cache.dir
-/home/sonnet/Desktop/algorithm/backjoon/CMakeFiles/edit_cache.dir
-/home/sonnet/Desktop/algorithm/backjoon/CMakeFiles/app.dir
